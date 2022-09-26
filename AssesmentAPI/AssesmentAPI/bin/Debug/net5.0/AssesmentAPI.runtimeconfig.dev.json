@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/stryker/.dotnet/store/|arch|/|tfm|",
+      "/Users/stryker/.nuget/packages"
+    ]
+  }
+}

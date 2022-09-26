@@ -1,0 +1,88 @@
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/appsettings.json
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.deps.json
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.runtimeconfig.json
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.runtimeconfig.dev.json
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.pdb
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.AssemblyReference.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.AssemblyInfoInputs.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.AssemblyInfo.cs
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.CoreCompileInputs.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/scopedcss/bundle/AssesmentAPI.styles.css
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/staticwebassets/AssesmentAPI.StaticWebAssets.Manifest.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.RazorTargetAssemblyInfo.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.CopyComplete
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/refint/AssesmentAPI.dll
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.pdb
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.genruntimeconfig.cache
+/Users/stryker/Downloads/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/ref/AssesmentAPI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/appsettings.json
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.deps.json
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.runtimeconfig.json
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.runtimeconfig.dev.json
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/AssesmentAPI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.AssemblyReference.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.AssemblyInfoInputs.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.AssemblyInfo.cs
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.CoreCompileInputs.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/scopedcss/bundle/AssesmentAPI.styles.css
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/staticwebassets/AssesmentAPI.StaticWebAssets.Manifest.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.RazorTargetAssemblyInfo.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.csproj.CopyComplete
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/refint/AssesmentAPI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/AssesmentAPI.genruntimeconfig.cache
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/obj/Debug/net5.0/ref/AssesmentAPI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Humanizer.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/stryker/Downloads/EPI Technical Assesment/AssesmentAPI/AssesmentAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
